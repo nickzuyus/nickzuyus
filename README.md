@@ -16,10 +16,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Relavant Course Work:
+### Languages:
+
+### Developer Tools:
+
+### Contact Information:
+  - Personal email: nickzuyus@yahoo.com
+  - School email: nickzuyus25@ou.edu
+  - LinkedIn: https://www.linkedin.com/in/nick-zuyus/
+  - Phone: (918) 557-7644
+### Completed Relevant Course Work:
   - Software Engineering
   - Computer Architecture
   - Computer Security
   - Intro to Differential Equations
   - Linear Algebra
-  - 
+  - Data Structures
+### Current Course Work:  
+  - Parallel, Distributed, and Network Programming
+  - Database Management Systems
+  - Applied Stastical Methods
+  - Artifical Intelligence
+
+
