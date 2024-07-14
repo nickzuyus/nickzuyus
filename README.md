@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages:
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-0A2C51?style=flat-square&logo=scheme&logoColor=white)
 
 ### Developer Tools:
 
