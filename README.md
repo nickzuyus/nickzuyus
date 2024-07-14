@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 ![Scheme](https://img.shields.io/badge/Scheme-0A2C51?style=flat-square&logo=scheme&logoColor=white)
 
 ### Developer Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ### Contact Information:
   - Personal email: nickzuyus@yahoo.com
