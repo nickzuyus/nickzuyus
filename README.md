@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am currently a fourth year computer science major at the University of Oklahoma.
+I am dedicated fourth-year student at the University of Oklahoma Gallogly College of Engineering, majoring in computer science with a minor in mathematics. Passionate about technology and problem-solving, I am committed to leveraging my skills to contribute to innovative solutions and advancements in the field of computer science.
+
 <!--
 **nickzuyus/nickzuyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Relavant Course Work:
+  - Software Engineering
+  - Computer Architecture
+  - Computer Security
+  - Intro to Differential Equations
+  - Linear Algebra
+  - 
