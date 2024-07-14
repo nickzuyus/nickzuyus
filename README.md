@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am currently a fourth year computer science major at the University of Oklahoma.
 <!--
 **nickzuyus/nickzuyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
