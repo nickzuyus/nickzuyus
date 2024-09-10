@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scheme](https://img.shields.io/badge/Scheme-0A2C51?style=flat-square&logo=scheme&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
 
 ### Developer Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -31,7 +33,7 @@ Here are some ideas to get you started:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ### Contact Information:
-  - Personal email: nickzuyus@yahoo.com
+  - Personal email: nickzuyus25@gmail.com
   - School email: nickzuyus25@ou.edu
   - LinkedIn: https://www.linkedin.com/in/nick-zuyus/
   - Phone: (918) 557-7644
